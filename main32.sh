@@ -1,3 +1,7 @@
+#! /bin/bash
+
+set -e
+
 # Add dependent repositories
 sudo dpkg --add-architecture i386
 wget -q -O - https://ppa.pika-os.com/key.gpg | sudo apt-key add -
