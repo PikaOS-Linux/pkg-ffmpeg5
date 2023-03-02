@@ -3,4 +3,4 @@ opt/ffmpeg5/usr/share/man/man1
 opt/ffmpeg5/usr/share/ffmpeg/*.ffpreset
 opt/ffmpeg5/usr/share/ffmpeg/*.xsd
 RELEASE_NOTES						opt/ffmpeg5/usr/share/doc/ffmpeg
-debian/99ffmpeg5.conf etc/environment.d
+debian/20-ffmpeg5.sh etc/profile.d
