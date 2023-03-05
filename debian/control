@@ -371,7 +371,7 @@ Multi-Arch: same
 Depends:
  libavcodec59-dev (= ${binary:Version}),
  libavdevice59 (= ${binary:Version}),
- libavfilter57-dev (= ${binary:Version}),
+ libavfilter8-dev (= ${binary:Version}),
  libavformat59-dev (= ${binary:Version}),
  libavutil57-dev (= ${binary:Version}),
  libpostproc56-dev (= ${binary:Version}),
